@@ -1,0 +1,1 @@
+let movieTitle: string = "Welcome to Racoon City";
